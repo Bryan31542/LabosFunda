@@ -13,7 +13,7 @@ int main(void){
     cout << "\nIngrese el valor de b: "; cin >> b;
     cout << "\nIngrese el valor de c: "; cin >> c;
 
-    int resultado1 = 0, resultado2 = 0;
+    float resultado1 = 0, resultado2 = 0;
 
     
     resultado1 = (-b+sqrt(pow(b,2)-4*a*c)) / (2*a);
