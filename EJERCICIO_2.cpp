@@ -1,8 +1,7 @@
 // Realizar un programa que reciba el radio de un círculo y calcular su área y perímetro
 
 #include <iostream>
-#include <cmath>
-#define M_PI
+#include <cmath>|
 
 using namespace std;
 
